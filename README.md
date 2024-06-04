@@ -35,3 +35,8 @@ Networks:
 
 ![image](https://github.com/Minlok3/PAwChO_lab10/assets/161515539/af16907b-bfa8-46ee-b043-90eb9bbf1c3e)
 
+Polecenie ,,docker network inspect lab10net" oraz jego wynik:
+
+Containers:
+
+![image](https://github.com/Minlok3/PAwChO_lab10/assets/161515539/501d684d-9c30-4164-80c8-d4feaf0c7f68)
