@@ -20,6 +20,10 @@ Zapisane logi:
 
 ![image](https://github.com/Minlok3/PAwChO_lab10/assets/161515539/6e2ef250-c065-4811-97e0-1d5f5cf3ec2e)
 
+Zawartość jednego z plików z logami:
+
+![image](https://github.com/Minlok3/PAwChO_lab10/assets/161515539/567c9630-6560-4c10-b2a2-a50882d26820)
+
 Polecenie ,,docker container inspect web1" oraz jego wynik:
 
 
